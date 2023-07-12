@@ -7,6 +7,7 @@ import ZenZone from '../images/ZenZone.jpg'
 import puppies from '../images/puppies.png'
 import cheatsheet from '../images/cheatsheet.png'
 import prework from '../images/prework.png'
+import codingLibrary from '../images/logo-coding-library.png'
 
 function Portfolio() {
     return (
@@ -68,7 +69,7 @@ function Portfolio() {
                         </Card.Body>
                     </Card>
                     <Card style={{ width: '18rem' }} className="m-2">
-                        <Card.Img variant="top" src={prework} />
+                        <Card.Img variant="top" src={codingLibrary} />
                         <Card.Body>
                             <Card.Title>Coding Library</Card.Title>
                             <Card.Text>

@@ -70,11 +70,11 @@ function Portfolio() {
                     <Card style={{ width: '18rem' }} className="m-2">
                         <Card.Img variant="top" src={prework} />
                         <Card.Body>
-                            <Card.Title>Prework Study Guide</Card.Title>
+                            <Card.Title>Coding Library</Card.Title>
                             <Card.Text>
-                            Completed prior to the coding bootcamp, this project served as an introductory walkthrough of fundamental HTML, CSS, and JavaScript concepts, laying the foundation for future development endeavors.                            </Card.Text>
-                            <Button variant="dark" href='https://github.com/djamesclark/prework-study-guide' className='m-2'>GitHub Repo</Button>
-                            <Button variant="dark" href='https://djamesclark.github.io/prework-study-guide/'>Deployed Site</Button>
+                            Coding Library is meant to be a one stop shop for all things coding. It provides a vast library of resources and books for anyone learning to code. This group project solidified our understanding of MERN and helped hone our React capabilities.                            </Card.Text>
+                            <Button variant="dark" href='https://github.com/djamesclark/Coding-Library' className='m-2'>GitHub Repo</Button>
+                            <Button variant="dark" href='https://lit-earth-19040-5018388296c4.herokuapp.com/'>Deployed Site</Button>
                         </Card.Body>
                     </Card>
                 </Col>
